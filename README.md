@@ -4,10 +4,10 @@ Nashville Software School | Data Analytics Cohort DA-17 | 2026
 Author: Michele Howse
 GitHub: MCHowse | LinkedIn: mchowse1
 
-Quick Summary:
-I looked at whether or not having a car affects someone's ability to get ahead financially in Tennessee.
+Summary:
+I examined if whether or not having a car affects someone's ability to get ahead financially in Tennessee.
 I used real government data covering all 95 TN counties.
-Big takeaway: counties with fewer cars per household also tend to have more poverty. It's not a coincidence, the two go hand in hand.
+Big takeaway: Counties with fewer cars per household also tend to have more poverty. It's not a coincidence, but the two go hand in hand.
 
 What This Project Is About:
 I used two data sources: the Census Bureau's American Community Survey (ACS) and the National Transit Database (NTD).
